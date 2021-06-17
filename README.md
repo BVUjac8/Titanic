@@ -27,5 +27,5 @@ R & R Studio should be downloaded from website, all others should be standardly 
 Collaboration can be made to perform regression analysis upon the data set.
 ### FAQs
 ***
-1. **Why is a data analysis of a data set called possum important to perform?**
+1. **Why is a data analysis of a data set called Titanic important to perform?**
 _Determining which passengers survived more (1st, 2nd, or 3rd) or was reported as missing, which gender survived more, and what was the survival rate versus the death rate of passengers on the doomed ship of the Titanic._
