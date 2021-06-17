@@ -14,17 +14,14 @@ Determining which passengers survived more (1st, 2nd, or 3rd) or was reported as
 ![Titanic](https://s.abcnews.com/images/International/gty-titanic-1-er-170410_16x9_992.jpg)
 ### Technologies
 ***
-* [Python](https://www.python.org/): Version 3.7 or higher
-* [Pycharm](https://www.jetbrains.com/pycharm/): Most recent version
 * [R](https://www.r-project.org/): Most recent version
 * [R Studio](https://www.rstudio.com/): Most recent version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
-* [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
 * [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
 ***
-Python & Pycharm and R & R Studio should be downloaded from website, all others should be standardly included.
+R & R Studio should be downloaded from website, all others should be standardly included.
 ### Collaboration
 ***
 Collaboration can be made to perform regression analysis upon the data set.
